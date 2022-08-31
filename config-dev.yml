@@ -11,7 +11,7 @@ spring:
 #     探索分支
       label: master
   application:
-    name: spring-config
+    name: dev
 
 eureka:
   client:
